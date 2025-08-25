@@ -14,11 +14,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  Acerca del Centro de Investigaciones</h3>
+<h3 align="left">👩‍💻  Objetivo de la cuenta</h3>
 
 ###
 
-<p align="left">La Fundación Clínica Shaio concibe la investigación como pilar relevante para el desarrollo científico y tecnológico del país, por lo que hace parte de nuestra misión y visión. Contamos con personal científico altamente calificado, con amplia experiencia en el desarrollo de estudios de investigación y reconocidos como investigadores por MINCIENCIAS, lo que garantiza su idoneidad y alta calidad en la producción.</p>
+<p align="left">Esta cuenta de GitHub tiene la intensión de administrar y gestionar de forma centralizada los diferentes proyectos que se llevan internamente en el Centro de Investigaciones. Esto facilita y garantiza una mayor trazabilidad de las actividades realizadas así como la organización y fácil incorporación de nuevos integrantes a los proyectos.</p>
 
 ###
 
